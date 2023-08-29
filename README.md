@@ -1,4 +1,4 @@
-### This project intends to present a 100% responsive and functional login page
+### This project intends to present a 100% responsive Web Calculator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DuduDevCode/Web-Calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DuduDevCode/Web-Calculator?style=for-the-badge)
