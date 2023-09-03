@@ -1,3 +1,5 @@
+# Web Calculator
+
 ### This project intends to present a 100% responsive Web Calculator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/devDudu-21/Web-Calculator?style=for-the-badge)
