@@ -1,8 +1,8 @@
 ### This project intends to present a 100% responsive Web Calculator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DuduDevCode/Web-Calculator?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DuduDevCode/Web-Calculator?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DuduDevCode/Web-Calculator?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/devDudu-21/Web-Calculator?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/devDudu-21/Web-Calculator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/devDudu-21/Web-Calculator?style=for-the-badge)
 
 <img src="https://media.discordapp.net/attachments/1049120937053794354/1110059382215036959/image.png?width=1352&height=676" alt="Page preview">
 
